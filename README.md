@@ -1,5 +1,6 @@
 ### Hi there 👋
-(image)[~/2d-cf/00-myart/blob2b-wmark-aae.png]
+
+![Screenshot](blob2b-wmark-aae.png)
 
 
  🔭 I’m currently working on generative art that I'm selling. If you need out of this world images - contact me
