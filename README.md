@@ -1,14 +1,24 @@
 ### Phon summer 2020
--graphics desig
--nmagento (cms)
--digital art
--oscommerce
--PHP 
--Python 
--C 
--Typecript
--wordpress (cms)
--Shopify
+
+graphics design
+
+magento 
+
+
+digital art
+
+
+PHP 
+
+Python 
+
+C 
+
+Typecript
+
+wordpress
+
+Shopify
 
 ![Screenshot](https://github.com/tyty999/tyty999/blob/master/blob2b-wmark-aabth.png)
 ![Screenshot](https://github.com/tyty999/tyty999/blob/master/blob2b-wmark-aaeth.png)
