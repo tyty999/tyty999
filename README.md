@@ -1,26 +1,6 @@
 ### Phon summer 2020
 
-graphics design
 
-magento 
-
-
-digital art
-
-
-PHP 
-
-Python 
-
-C 
-
-Typecript
-
-wordpress
-
-Shopify
-
-![Screenshot](https://github.com/tyty999/tyty999/blob/master/blob2b-wmark-aabth.png)
 ![Screenshot](https://github.com/tyty999/tyty999/blob/master/blob2b-wmark-aaeth.png)
 
 -🔭 I’m currently working on generative art that I'm selling. If you need out of this world images - contact me
@@ -29,5 +9,6 @@ Shopify
 - 👯 I’m looking for work and freelancing
 
 - 📫 How to reach me: cdnclass@gmail.com
+![Screenshot](https://github.com/tyty999/tyty999/blob/master/blob2b-wmark-aabth.png)
 
 
